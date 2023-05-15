@@ -1,5 +1,5 @@
 {
-    "name": "joystickTransmitterSumo",
+    "name": "joystickTransmitterClaw",
     "description": "",
     "dependencies": {
         "core": "*",
